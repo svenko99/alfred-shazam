@@ -6,7 +6,7 @@
 
 ## 🚀 Installation
 
-- Install (Shazam Workflow)[] in the repo.
+- Install [⤓ Shazam Workflow](https://github.com/svenko99/alfred-shazam/releases/latest/download/Shazam.alfredworkflow) in the repo.
 
 ## 🔧 Workflow Variables
 
