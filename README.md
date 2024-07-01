@@ -16,7 +16,7 @@
 
 ## 🔄 Usage
 
-- Type `shazam` in Alfred while the song is playing and wait for the results.
+- Type `shazam` in Alfred while the music is playing and wait for the results.
 
 ## 📝 Notice
 
