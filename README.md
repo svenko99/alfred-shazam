@@ -1,5 +1,3 @@
-Here's the updated README.md with the notice included:
-
 # Shazam Workflow for Alfred
 
 ## 🤔 Introduction
