@@ -16,8 +16,8 @@
 
 ## 🔄 Usage
 
-- Type `shazam` in Alfred while the song is playing and wait for the results.
+- Type `shazam` in Alfred while the music is playing and wait for the results.
 
 ## 📝 Notice
 
-- This workflow has been tested on macOS Sonoma.
+- This workflow has been tested on macOS Sonoma (14.5).
