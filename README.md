@@ -20,4 +20,4 @@
 
 ## 📝 Notice
 
-- This workflow has been tested on macOS Sonoma.
+- This workflow has been tested on macOS Sonoma (14.5).
