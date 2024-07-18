@@ -6,7 +6,8 @@
 
 ## 🚀 Installation
 
-- Install [⤓ Shazam Workflow](https://github.com/svenko99/alfred-shazam/releases/latest/download/Shazam.alfredworkflow) in the repo.
+- Head to [Shazam Workflow](https://alfred.app/workflows/svenko99/shazam/) in the Alfred Gallery.
+- You can also install it [⤓ here](https://github.com/svenko99/alfred-shazam/releases/latest/download/Shazam.alfredworkflow) in the repo.
 - When running the script for the first time, you will be prompted to download an Apple Shortcut.
 
 ## 🔧 Workflow Variables
