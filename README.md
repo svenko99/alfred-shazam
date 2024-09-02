@@ -18,7 +18,7 @@
 ## 🔄 Usage
 
 - Type `shazam` in Alfred while the music is playing and wait for the results.
-- Type `shazam history` in Alfred to view your Shazam history.
+- Type `shazam history` in Alfred to view your Shazam history. Use `⌘` to delete a specific song or `⌥` to delete every song from the history.
 
 ## 📝 Notice
 
