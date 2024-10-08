@@ -2,7 +2,7 @@
 
 ## 🤔 Introduction
 
-- Easily identify music using Shazam directly from Alfred with this workflow.
+- Easily identify music using Shazam directly from [Alfred](https://www.alfredapp.com/) with this workflow.
 
 ## 🚀 Installation
 
