@@ -18,7 +18,3 @@
 
 - Type `shazam` in Alfred while the music is playing and wait for the results.
 - Type `shazam history` in Alfred to view your Shazam history. Use `⌘` to delete a specific song or `⌥` to delete every song from the history.
-
-## 📝 Notice
-
-- This workflow has been tested on macOS Sonoma (14.5).
